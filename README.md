@@ -49,6 +49,7 @@ Dando vida ao meme com um simples chat feito com Socket.IO e React.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
+- [Express](https://expressjs.com/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [Socket.IO](https://socket.io/)
