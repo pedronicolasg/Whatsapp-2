@@ -43,7 +43,7 @@ Dando vida ao meme com um simples chat feito com Socket.IO e React.
 ## :sparkles: Funcionalidades ##
 
 :heavy_check_mark: Login;\
-:heavy_check_mark: Mensagens em tempo real;\
+:heavy_check_mark: Mensagens em tempo real
 
 ## :rocket: Tecnologias ##
 
